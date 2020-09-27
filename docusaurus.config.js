@@ -33,15 +33,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'About Me',
           items: [
             {
               label: 'Style Guide',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Tech Skills',
+              to: 'docs/about-skills/',
             },
           ],
         },
