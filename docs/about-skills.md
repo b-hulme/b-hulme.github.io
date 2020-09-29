@@ -1,8 +1,93 @@
 ---
 id: about-skills
 title: Technical Skills
-sidebar_label: Technical Skills
 ---
+
+## Software architectures and methodologies
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Microservices|2020|4 years|Expert|
+|Service Oriented Architecture|2020|6 years|Expert|
+|Layered (n-tier) Architecture|2018|8 years|Expert|
+|Vertical slice Architecture|2020|2 years|Advanced|
+|Event Driven Architecture|2019|3 years|Advanced|
+|Domain Driven Development|2019|2 years|Advanced|
+|Event Sourcing|2019|2 years|Advanced|
+|CQRS|2018|2 years|Advanced|
+|SOLID|2020|6 years|Expert|
+|Test Driven Development|2014|2 years|Intermediate|
+
+## Development process and management 
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Agile|2020|5 years|Expert|
+|SCRUM|2020|5 years|Expert|
+|SCRUM Master|2020|1 year|Advanced|
+|Kanban|2014|1 year|Intermediate|
+
+## Cloud Platforms
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Azure|2020|3 years|Advanced|
+|AWS|2020|4 years|Advanced|
+|GCP|2020|1 year|Interediate|
+|Private Cloud|2020|3 years|Advanced|
+
+### Azure
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Azure Functions|2019|1 year|Intermediate|
+|Azure Kubernetes Service|2020|2 years|Advanced|
+|Container Registry|2020|2 years|Intermediate|
+|Azure Cosmos DB|2020|2 years|Advanced|
+|Azure SQL Database|2020|2 years|Advanced|
+|Azure Active Directory|2020|1 year|Intermediate|
+|Azure Service Bus|2019|2 years|Advanced|
+|Application Insights|2020|4 years|Advanced|
+|Azure Security Center Key Vault|2020|2 years|Intermediate|
+|Azure Blob Storage|2019|1 year|Intermediate|
+
+### AWS
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|AWS API Gateway|2020|1 year|Intermediate|
+|AWS IAM|2020|1 year|Intermediate|
+|AWS Lambda|2020|1 year|Intermediate|
+|AWS Swcrets Manager|2020|1 year|Intermediate|
+|Amazon CloudFront|2020|2 years|Intermediate|
+|Amazon CloudWatch|2020|1 year|Intermediate|
+|Amazon ECS|2020|2 years|Intermediate|
+|Amazon EKS|2020|2 years|Intermediate|
+|Amazon Route 53|2020|6 months|Novice|
+|Amazon SNS|2020|2 years|Intermediate|
+|Amazon SQS|2020|2 years|Intermediate|
+|Amazon VPC|2020|6 months|Novice|
+|Elastic Load Balancer|2020|2 years|Intermediate|
+|CloudFormation Templates|2020|6 months|Intermediate|
+
+### GCP
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Container Registry|2020|1 year|Intermediate|
+|Cloud IAM|2020|1 year|Intermediate|
+
+### Private Cloud
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Traefik|2020|1 year|Advanced|
+|Istio|2020|1 year|Intermediate|
+|K3s|2020|1 year|Advanced|
+|Docker|2020|5 years|Expert|
+|Docker Compose|2020|1 year|Advanced|
+|Kubernetes|2020|3 years|Expert|
+|Helm|2020|2 yaers|Advanced|
 
 ## Languages
 
@@ -35,20 +120,6 @@ In reality, picking up a new development language doesn't take very long once yo
 |Angular 2+|2018|2 years|Advanced|
 |React/Redux|2020|3 years|Advanced|
 
-## Software architectures and methodoologies
-
-|Skill|Last Used|Combined usage|Level|
-|--|--|--|--|
-|Microservices|2020|4 years|Expert|
-|Service Oriented Architecture|2020|6 years|Expert|
-|Layered (n-tier) Architecture|2018|8 years|Expert|
-|Vertical slice Architecture|2020|2 years|Advanced|
-|Event Driven Architecture|2019|3 years|Advanced|
-|Domain Driven Development|2019|2 years|Advanced|
-|Event Sourcing|2019|2 years|Advanced|
-|CQRS|2018|2 years|Advanced|
-|SOLID|2020|6 years|Expert|
-
 ## Software libraries
 
 |Skill|Last Used|Combined usage|Level|
@@ -64,11 +135,33 @@ In reality, picking up a new development language doesn't take very long once yo
 
 |Skill|Last Used|Combined usage|Level|
 |--|--|--|--|
+|Redis|2020|4 years|Expert|
+|RabbitMq|2019|3 years|Expert|
+|ElasticSearch|2018|1 year|Advanced|
+|Lucene|2013|1 year|Advanced|
+|IdentityServer4|2018|2 years|Expert|
 
-### Development
+### Development and test
 
 |Skill|Last Used|Combined usage|Level|
 |--|--|--|--|
+|Resharper|2020|6 years|Expert|
+|FxCop Analyser|2020|2 years|Expert|
+|SonarQube|2020|3 years|Advanced|
+|xUnit|2020|4 years|Expert|
+|nUnit|2017|3 yaers|Expert|
+|Stryker|2020|1 year|Intermediate|
+
+### Databases
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|SQL Server|2018|10 years|Expert|
+|MongoDb|2020|5 years|Expert|
+|MySql/MariaDb|2018|5 years|Expert|
+|Oracle|2016|2 years|Advanced|
+|T-SQL|2020|5 years|Advanced|
+|PL/SQL|2016|1 year|Intermediate|
 
 ### Ci/CD
 
@@ -78,16 +171,7 @@ In reality, picking up a new development language doesn't take very long once yo
 |Jenkins|2020|2 years|Advanced|
 |Bamboo|2018|1 year|Advanced|
 |Octopus Deploy|2018|2 years|Advanced|
-|GitHub Workflows|2020|1 year|Advanced|
-
-### Service orchestration and containerisation
-
-|Skill|Last Used|Combined usage|Level|
-|--|--|--|--|
-|Docker|2020|5 years|Expert|
-|Docker Compose|2020|1 year|Advanced|
-|Kubernetes|2020|3 years|Expert|
-|Helm|2020|2 yaers|Advanced|
+|GitHub Actions|2020|1 year|Advanced|
 
 ## IDEs
 

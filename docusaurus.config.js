@@ -36,7 +36,7 @@ module.exports = {
           title: 'About Me',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Carerr History',
               to: 'docs/',
             },
             {
