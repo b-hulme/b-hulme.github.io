@@ -1,7 +1,6 @@
 ---
 id: about-career
 title: Career History
-slug: /
 ---
 My career history in approximately chronological order.
 

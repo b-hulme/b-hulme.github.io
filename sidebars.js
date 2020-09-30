@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    'About Me': ['about-career', 'about-skills', ],
+    'About Me': ['about-me', 'about-career', 'about-skills', ],
     Features: ['doc1'],
   },
 };
