@@ -68,6 +68,7 @@ The number of roles involved with the group is very much dependent on the organi
 It may be that you want a architect present from each area of your business, to provide a diverse range of input to the group, however be careful here. Too many people in this group will cause issues around decision making and arranging times to convene. The group will thus become less effective.
 
 As a minimum there should be:
+
 |Role|Responsibility|
 |--|--|
 |Chief Architect|Facilitates group meetings, holds responsibility for maintaining agreed standards, frameworks and architectural storage control, casts deciding votes, champions new technology strategies|
