@@ -71,11 +71,11 @@ As a minimum there should be:
 
 |Role|Responsibility|
 |--|--|
-|Chief Architect|Facilitates group meetings, holds responsibility for maintaining agreed standards, frameworks and architectural storage control, casts deciding votes, champions new technology strategies|
-|Business Architect|Responsible for maintaining organisation structure and architecting process flows. Champions governance strategies and change control methods. Liaises with the other groups to ensure organisation structure and processes are well designed and enable efficient product delivery|
-|Solution Architect(s)|Responsible for the architecture of applications within the scope of the group. They must understand the needs and demands of each application within the various areas of the business|
-|Security representative|Responsible for application and organisation security concerns and ensuring the security of data within the organisation|
-|Product representative|Responsible for the product portfolio of the organisation and ensures that architectural Quality Attributes are aligned to business key results and outcomes|
+|**Chief Architect**|Facilitates group meetings, holds responsibility for maintaining agreed standards, frameworks and architectural storage control, casts deciding votes, champions new technology strategies|
+|**Business Architect**|Responsible for maintaining organisation structure and architecting process flows. Champions governance strategies and change control methods. Liaises with the other groups to ensure organisation structure and processes are well designed and enable efficient product delivery|
+|**Solution Architect(s)**|Responsible for the architecture of applications within the scope of the group. They must understand the needs and demands of each application within the various areas of the business|
+|**Security representative**|Responsible for application and organisation security concerns and ensuring the security of data within the organisation|
+|**Product representative**|Responsible for the product portfolio of the organisation and ensures that architectural Quality Attributes are aligned to business key results and outcomes|
 
 These roles represent the cross section of activities related to product delivery in the organisation.
 
