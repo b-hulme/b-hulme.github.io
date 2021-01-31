@@ -2,7 +2,7 @@
 slug: Getting Going
 title: Getting Going
 author: Brendan Hulme
-author_title: Consultant and Developer
+author_title: Technical Consultant
 author_url: https://github.com/b-hulme
 author_image_url: https://avatars3.githubusercontent.com/u/64170317?s=460&u=6869a9778ace6f2c221e49bde22b904797e84097&v=4
 tags: [docusaurus]
