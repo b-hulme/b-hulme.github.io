@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://b-hulme.github.io/blog</id>
+    <title>Brendan Hulme Blog</title>
+    <updated>2021-01-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://b-hulme.github.io/blog"/>
+    <subtitle>Brendan Hulme Blog</subtitle>
+    <icon>https://b-hulme.github.io/img/favicon.ico</icon>
+    <rights>Copyright © 2021 Brendan Hulme</rights>
+    <entry>
+        <title type="html"><![CDATA[An Organisation Architecture Group]]></title>
+        <id>An Organisation Architecture Group</id>
+        <link href="https://b-hulme.github.io/blog/An Organisation Architecture Group"/>
+        <updated>2021-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whilst working for a client recently, the issue of architectural governance came up.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Going]]></title>
+        <id>Getting Going</id>
+        <link href="https://b-hulme.github.io/blog/Getting Going"/>
+        <updated>2020-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So I've finally got round to setting up a simple Bio and Blog website to tell the tech world what it's doing wrong. Ok, I'm joking - I do that some times.]]></summary>
+    </entry>
+</feed>

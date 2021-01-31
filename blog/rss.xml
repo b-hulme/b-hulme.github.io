@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Brendan Hulme Blog</title>
+        <link>https://b-hulme.github.io/blog</link>
+        <description>Brendan Hulme Blog</description>
+        <lastBuildDate>Sun, 31 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 Brendan Hulme</copyright>
+        <item>
+            <title><![CDATA[An Organisation Architecture Group]]></title>
+            <link>https://b-hulme.github.io/blog/An Organisation Architecture Group</link>
+            <guid>An Organisation Architecture Group</guid>
+            <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Whilst working for a client recently, the issue of architectural governance came up.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Getting Going]]></title>
+            <link>https://b-hulme.github.io/blog/Getting Going</link>
+            <guid>Getting Going</guid>
+            <pubDate>Tue, 29 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[So I've finally got round to setting up a simple Bio and Blog website to tell the tech world what it's doing wrong. Ok, I'm joking - I do that some times.]]></description>
+        </item>
+    </channel>
+</rss>
