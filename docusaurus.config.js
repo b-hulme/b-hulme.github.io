@@ -80,6 +80,11 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
+          blogSidebarCount: 'all',
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Brendan Hulme`,
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

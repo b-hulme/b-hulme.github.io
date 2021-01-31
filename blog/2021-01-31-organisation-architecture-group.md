@@ -1,11 +1,11 @@
 ---
-slug: Organisation Architecture Group
-title: Organisation Architecture Group
+slug: An Organisation Architecture Group
+title: An Organisation Architecture Group
 author: Brendan Hulme
 author_title: Technical Consultant
 author_url: https://github.com/b-hulme
 author_image_url: https://avatars3.githubusercontent.com/u/64170317?s=460&u=6869a9778ace6f2c221e49bde22b904797e84097&v=4
-tags: [Enterprise Architecture Governance]
+tags: [Enterprise Architecture, Architecture Governance]
 ---
 
 Whilst working for a client recently, the issue of architectural governance came up.
@@ -26,11 +26,11 @@ Quite often smaller companies could benefit from some of the basics but don't te
 
 So, I thought I'd put together a little post on a basic, reduced set of guidelines derived from TOGAF and focused mostly on technical architectural governance.
 
-# An Organisational Architecture Group
+## An Organisational Architecture Group
 Just like a regular government, if we're going to set rules and standards, we need a central body to discuss, decide and approve these things.
 This is where an Organisational Architecture Group (OAG) comes in *(Note: Other names for this group can be used - you have my poermission!)*.
 
-## Purpose
+### Purpose
 The OAG is a governing committee responsible for coordinating technical and enterprise architecture.
 
 It is responsible for agreeing and setting standards and frameworks around:
@@ -53,7 +53,7 @@ The group also provides services around:
 - Transformation planning
 - Creating architecture artefact templates
 
-## What it doesn't do
+### What it doesn't do
 The group **IS NOT** responsible for individual architectural designs within the areas of business. That is the responsibility of the respective Solutiuon Architect or Tech Lead for that business area.
 
 It is expected that Solution Architects working on a product that hasn't external dependencies will work with the architects in the dependent teams to ensure a consistent design within the bounds of the governance framework established.
@@ -62,7 +62,7 @@ This would probably include a design review from the OAG. Note that the OAG just
 
 The group simply sets standards and requirements that must be followed and provides consultancy services to the rest of the business.
 
-## Roles and Composition
+### Roles and Composition
 The number of roles involved with the group is very much dependent on the organisation.
 
 It may be that you want a architect present from each area of your business, to provide a diverse range of input to the group, however be careful here. Too many people in this group will cause issues around decision making and arranging times to convene. The group will thus become less effective.
@@ -86,7 +86,7 @@ A training assessment framework can be found on the [TOGAF website](https://pubs
 
 The assessment framework is great tool to identify skill gaps in your core architecture team. This should not looked at as a form of humilation or punishment, but as identifying areas to provide training around.
 
-# Initiation
+## Initiation
 Once you've decided on your group members and assessed that they have to skills necessary for the group, you need to organise the first meeting.
 
 The following topics should be dealt with during the first few meetings of the group:
@@ -114,7 +114,7 @@ The following topics should be dealt with during the first few meetings of the g
 
 The group should continue to evolve its governance and processes over time. It should continually assess the organisation against its maturity model and work to wnsure any gaps continue to be filled. It should also reassess its technical strategy and goals on a regular basis to ensure it stays aligned with business gaols.
 
-# Further reading
+## Further reading
 Most of this post is based on personal experience and the contains principles influenced from the [TOGAF 9.2 standard](https://pubs.opengroup.org/architecture/togaf9-doc/arch/).
 If you've got time and need to understand Enterprise Architecture in depth then feel free to give it a read.
 
