@@ -79,8 +79,9 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
-          showReadingTime: true,
           blogSidebarCount: 'all',
+          postsPerPage: 1,
+          showReadingTime: true,
           feedOptions: {
             type: 'all',
             copyright: `Copyright © ${new Date().getFullYear()} Brendan Hulme`,
