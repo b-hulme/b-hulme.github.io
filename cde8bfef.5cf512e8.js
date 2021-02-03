@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{78:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"architecture-governance","name":"architecture governance","count":1,"permalink":"/blog/tags/architecture-governance"}')}}]);

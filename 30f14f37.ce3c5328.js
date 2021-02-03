@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{76:function(t){t.exports=JSON.parse('{"title":"All posts","items":[{"title":"An Organisation Architecture Group","permalink":"/blog/An Organisation Architecture Group"},{"title":"Getting Going","permalink":"/blog/Getting Going"}]}')}}]);
