@@ -79,6 +79,9 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All posts',
+          postsPerPage: 1,
           showReadingTime: true,
           feedOptions: {
             type: 'all',
