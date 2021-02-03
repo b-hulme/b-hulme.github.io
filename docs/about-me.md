@@ -30,11 +30,7 @@ You can find links to my [GitHub](https://github.com/b-hulme) repository and [Li
 
 ## Start-up ideas
 
-I have a Startup company project that I work on in my spare time.
-
-I'm not sure if it'll ever make money or even be finished, but it's great fun to do and allows me to further my skills in areas I wouldn't normal get exposure to.
-
-And no, I'm not telling you anything about it! :-)
+I am involved with a personal start-up project that often provides me with exposure to new technologies or techniques.
 
 ## Hobbies and Interests
 
@@ -45,4 +41,3 @@ And no, I'm not telling you anything about it! :-)
 - Electronics - Love playing around with Electronics and have done since I was about 11 years old
 
 - Science - I'd love to be more specific but I find everything Science related fascinating, from Biology to Physics. I regularly read myself to sleep on science news and articles.
-

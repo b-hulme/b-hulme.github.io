@@ -4,8 +4,14 @@ title: Career History
 ---
 My career history in approximately chronological order.
 
+## EPAM Systems (Switzerland) GmbH
+**Solution Architect *(Sep 2020 - Now)***
+
+Working with the EPAM client base around the world to deliver quality enterprise software solutions, Agile transformation and technical leadership.
+Activities have included Technical Consultancy and Assessments, Stakeholder management, Enterprise Architecture and Governance, Delivery Pipeline design services, and Team management for a large scale entrprise client.
+
 ## Scenic Software Ltd 
-**Software Consultancy Services *(Sep 2020- Sep 2012)***
+**Software Consultancy Services *(Sep 2020 - Sep 2012)***
 
 Scenic Software is my consultancy business, that carried out analysis, design, development and support activities for various clients. These have included:
 
