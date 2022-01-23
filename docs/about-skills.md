@@ -4,6 +4,7 @@ title: Technical Skills
 ---
 
 Skills here are categorised by duration of experience and a competence level. Competence levels are defined as follows:
+
 |Competence|Description|
 |--|--|
 |Novice|A basic understanding of the concept or skill with less than a year of commercial experience in pactice.|
