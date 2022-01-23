@@ -1,6 +1,6 @@
 module.exports = {
   title: "Brendan Hulme",
-  tagline: 'Software Solutions Architect, Consultant, Technical Lead and Developer with over 20 years experience in the industry',
+  tagline: 'Technology Leader, Solution and Enterprise Architect, and Consultant, with over 20 years experience in the industry',
   url: 'https://b-hulme.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',

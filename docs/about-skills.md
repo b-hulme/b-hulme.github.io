@@ -3,6 +3,45 @@ id: about-skills
 title: Technical Skills
 ---
 
+Skills here are categorised by duration of experience and a competence level. Competence levels are defined as follows:
+|Competence|Description|
+|--|--|
+|Novice|A basic understanding of the concept or skill with less than a year of commercial experience in pactice.|
+|Intermediate|Understanding of the concept or skill is well established, although an understanding of advanced nusances may be lacking. Aggregated practical, commercial experience of 1 to 2 years.|
+|Advanced|The concept or skill is well understood including many advanced nuances. Aggregated commercial experience of at leats 2 years or execution of demonstratable advanced aspects with at least 1 year of commercial experience.|
+|Expert|A high level of understanding of the concept or skill allowing the ability to competantly mentor more junior peers. Articles, books, or blogs may have been wrotten on the subject. Commercial experience exceeds 2 years, but will typically be over 5 years.|
+
+## Leadership
+
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Team Leadership|2022|7 years|Expert|
+|Servant Leadership|2022|7 years|Expert|
+|Mentoring|2022|10 years|Expert|
+|Dispute Resolution|2021|5 years|Advanced|
+|Stakeholder Management|2022|10 years|Expert|
+|Engineering Consultancy|2022|10+ years|Expert|
+|Community of Practice facilitation|2021|2 years|Advanced|
+
+## Business, and Enterprise Architecture methodologies
+|Skill|Last Used|Combined usage|Level|
+|--|--|--|--|
+|Executive communications|2022|3 years|Advanced|
+|Business Case and Plan Development|2022|6 years|Advanced|
+|Lean Canvas|2022|2 yaers|Advanced|
+|Product Creation processes|2021|2 years|Intermediate|
+|Architecture processes|2022|3 years|Advanced|
+|Enterprise Architecture|2021|2 yaers|Advanced|
+|Change Management|2021|5 years|Advanced|
+|Technology Strategy formation|2022|1 year|Intermediate|
+|Mission and Goal setting|2021|2 years|Advanced|
+|Capability Maturity Models|2021|2 years|Advanced|
+|Competency frameworks|2021|2 years|Advanced|
+|Project Governance|2022|2 years|Advanced|
+|Project and Programme Budgeting|2021|5 years|Advanced|
+|Worksop facilitation|2021|5 years|Expert|
+|Backlog creation|2022|8 years|Expert|
+
 ## Software architectures and methodologies
 
 |Skill|Last Used|Combined usage|Level|
@@ -24,6 +63,7 @@ title: Technical Skills
 |--|--|--|--|
 |Agile|2020|5 years|Expert|
 |SCRUM|2020|5 years|Expert|
+|Scald Agile Framework (SAFe)|2022|2 years|Intermediate|
 |SCRUM Master|2020|1 year|Advanced|
 |Kanban|2014|1 year|Intermediate|
 
@@ -85,7 +125,7 @@ title: Technical Skills
 |Istio|2020|1 year|Intermediate|
 |K3s|2020|1 year|Advanced|
 |Docker|2020|5 years|Expert|
-|Docker Compose|2020|1 year|Advanced|
+|Docker Compose|2021|2 year|Advanced|
 |Kubernetes|2020|3 years|Expert|
 |Helm|2020|2 yaers|Advanced|
 
@@ -119,6 +159,7 @@ In reality, picking up a new development language doesn't take very long once yo
 |Blazor WebAssembly|2020|2 years|Advanced|
 |Angular 2+|2018|2 years|Advanced|
 |React/Redux|2020|3 years|Advanced|
+|Unity|2022|2 years|Intermediate|
 
 ## Software libraries
 

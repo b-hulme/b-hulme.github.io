@@ -8,23 +8,23 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Solution Architect',
+    title: 'Solution and Enterprise Architect',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
         Having provided consultacy services to many companies over the last 10 years,
-        I&apos;ve been involved in Architecting software solutions that turn stakeholder goals
-        into reality while meeting business goals and values.
+        I&apos;ve been involved in both architecting software solutions, and embedding architecture processes
+        that help turn stakeholder goals into reality while meeting business objectives and values.
       </>
     ),
   },
   {
-    title: 'Development Technical Lead',
+    title: 'Technical Leadership',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Combining 20 yaers of development experience with strong interpersonal skills has
-        allowed me to gain the respect of multiple dev teams and lead them to delivery and quality goals.
+        Combining 20 yaers of development, architecture, infrastructure experience with strong interpersonal skills has
+        allowed me to gain the respect of multiple engineering teams and lead them to delivery and quality goals.
       </>
     ),
   },
